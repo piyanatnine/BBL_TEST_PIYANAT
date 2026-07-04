@@ -1,0 +1,1 @@
+rootProject.name = "BBL_TEST_PIYANAT"
